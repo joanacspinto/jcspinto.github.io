@@ -383,7 +383,7 @@ ul li {
 	 Services
 -------------------------------------------------------------------------------*/
 .services {
-	width: 94%;
+	width: 92%;
 	margin: auto;
 	background-color: #f2f2f2;
 }
@@ -396,14 +396,14 @@ ul li {
 .services h5 {
 	font-size: 21px;
 	font-weight: 300;
-	margin-bottom: 10%;
+	 /* margin-bottom: 10%; */
 	text-transform: none;
 }
 .services p {
 	color: #6c7279;
 	font-size: 13px;
 	font-weight: 400;
-	margin-top: 7%;
+	/* margin-top: 7%;*/
 }
 .services-content {
 	margin: 50px;
