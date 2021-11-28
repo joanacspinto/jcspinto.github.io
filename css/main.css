@@ -518,7 +518,7 @@ ul li {
 }
 .footer h4 {
 	/* font-size: 13px; */
-	font-size: 21px;
+	font-size: 18px;
 	font-weight: 300;
 	color: #000;
 	margin: 0 0 15px 0;
@@ -543,13 +543,13 @@ ul li {
 }
 .footer .footer-share a {
 	border: none;
-	font-size: 13px;
+	font-size: 18px;
 	color: #000;
 	letter-spacing: 15px;
 }
 .footer .fa-heart {
 	color: #e84545;
-	font-size: 11px;
+	font-size: 13px;
 	margin: 0 2px;
 }
 /* ------------------------------------------------------------------------------
