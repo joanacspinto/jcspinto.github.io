@@ -525,8 +525,9 @@ ul li {
 	padding: 0px;
 }
 .footer p {
-	font-size: 18px;
 	color: #6c7279;
+	font-size: 13px;
+	font-weight: 300;
 }
 .footer a {
 	color: #000;
