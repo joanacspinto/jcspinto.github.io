@@ -349,7 +349,7 @@ ul li {
 	position: relative;
 	/* background-color: #f2f2f2; */
 	background-color: #fff;
-	padding-top: 10%;
+	padding-top: 5%;
 }
 .servicesv2 h4 {
 	font-size: 33px;
@@ -360,7 +360,7 @@ ul li {
 .servicesv2 h5 {
 	font-size: 21px;
 	font-weight: 300;
-	margin-bottom: 10%;
+	margin-bottom: 8%;
 	text-transform: none;
 	
 }
