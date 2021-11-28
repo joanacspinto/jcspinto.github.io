@@ -360,9 +360,10 @@ ul li {
 .servicesv2 h5 {
 	font-size: 21px;
 	font-weight: 300;
-	margin-bottom: 2%; 
-	padding-top: 0%;
+	margin-bottom: 10%; 
+	padding-top: 10%;
 	text-transform: none;
+	
 }
 .servicesv2 p {
 	color: #6c7279;
@@ -578,7 +579,7 @@ ul li {
 	width: 94%;
 	margin: auto;
 	text-align: left;
-	padding-top: 5%;
+	padding-top: 0%;
 	padding-bottom: 7%;
 }
 .footer h4 {
