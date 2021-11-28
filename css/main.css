@@ -346,7 +346,6 @@ ul li {
 .servicesv2 {
 	width: 92%;
 	margin: auto;
-	background-color: #333;
 	position: relative;
 	/* background-color: #f2f2f2; */
 }
@@ -376,7 +375,7 @@ ul li {
 	line-height: 30px;
 }
 .servicesv2-content li a:hover {
-	color: #000;
+	/* color: #000; */
 }
 
 /* ------------------------------------------------------------------------------
