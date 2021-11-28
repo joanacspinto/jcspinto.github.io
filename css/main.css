@@ -117,7 +117,7 @@ ul li {
 	color: #000;
 	font-weight: 700;
 	float: left;
-	text-transform: uppercase;
+	/* ---------------- text-transform: uppercase; ------ */
 }
 #header.fixed {
 	background-color: #fff;
