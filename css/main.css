@@ -84,7 +84,7 @@ ul li {
 	list-style: none;
 }
 .section {
-	padding: 50px 0;
+	padding: 40px 0;
 }
 .no-padding {
 	padding: 0;
@@ -360,6 +360,7 @@ ul li {
 .servicesv2 h5 {
 	font-size: 21px;
 	font-weight: 300;
+	 margin-top: 4%;
 	margin-bottom: 4%;
 	text-transform: none;
 	
