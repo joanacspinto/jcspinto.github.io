@@ -120,7 +120,8 @@ ul li {
 	/* ---------------- text-transform: uppercase; ------ */
 }
 #header.fixed {
-	background-color: #fff;
+	/* background-color: #fff; */
+	background-color: #f2d5bd;
 }
 #header.fixed .header-content {
 	border-bottom: 0;
