@@ -429,6 +429,7 @@ ul li {
 #portfolio {
 	width: 92%;
 	margin: auto;
+	padding-top: 5%;
 }
 #portfolio .portfolio-item {
 	right: 0;
