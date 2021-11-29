@@ -84,7 +84,7 @@ ul li {
 	list-style: none;
 }
 .section {
-	padding: 20px 0;
+	padding: 20px 0px;
 }
 .no-padding {
 	padding: 0;
@@ -107,7 +107,7 @@ ul li {
 #header .header-content {
 	margin: 0 auto;
 	margin-left: 7%;
-	padding: 0px 0px;
+	padding: 25px 0px;
 	width: 100%;
 	-moz-transition: padding 0.2s;
 	-o-transition: padding 0.2s;
