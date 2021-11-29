@@ -84,7 +84,7 @@ ul li {
 	list-style: none;
 }
 .section {
-	padding: 20px 0px;
+	padding: 10px 0px;
 }
 .no-padding {
 	padding: 0;
@@ -150,7 +150,7 @@ ul li {
 	color: #000;
 	font-size: 13px;
 	font-weight: 300;
-	margin-left: 50px;
+	margin-left: 30px;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
