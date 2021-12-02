@@ -1,2 +1,2 @@
-# jcspinto.github.io
-personal webpage
+# https://joanacspinto.github.io
+Personal webpage
