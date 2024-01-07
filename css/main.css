@@ -690,14 +690,13 @@ ul li {
 	font-size: 15px;
 	line-height: 15px;
 	letter-spacing: 2px;
-	font-weight: 200;
+	font-weight: 300;
 }
 .new_columns h5 {
-	font-size: 21px;
+	font-size: 15px;
+	line-height: 15px;
+	letter-spacing: 2px;
 	font-weight: 200;
-	margin-top: 20%;
-	margin-bottom: 4%;
-	text-transform: none;
 }
 .new_columns p {
 	color: #6c7279;
