@@ -658,15 +658,21 @@ ul li {
 
 /* ------------------------------------------------------------------------------
 	 new_columns
--------------------------------------------------------------------------------*
+-------------------------------------------------------------------------------*/
 
 .new_columns {
-	width: 92%;
-	 margin: auto; 
+	width: 92^;
+	margin: auto; 
 	 position: relative; 
-	 /* background-color: #f2f2f2; */
 	 background-color: #fff; 
 	padding-top: 12%;
+}
+
+.new_columns h3 {
+	font-size: 30px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	font-weight: 200;
 }
 .new_columns h4 {
 	font-size: 33px;
@@ -686,7 +692,6 @@ ul li {
 	font-size: 13px;
 	font-weight: 400;
 	 /* margin-top: 7%; */
-	margin-top: 20%;
 }
 .new_columns-content {
 	margin: 50px;
@@ -698,8 +703,6 @@ ul li {
 .new_columns-content li a:hover {
 	 color: #000; 
 }
-
-
 
 /* ------------------------------------------------------------------------------
 	 Photo
