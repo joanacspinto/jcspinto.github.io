@@ -665,7 +665,7 @@ ul li {
 	position: relative;
 	 /* background-color: #f2f2f2; */
 	 background-color: #fff; 
-	msrgin-top: 8%;
+	msrgin-top: 12%;
 }
 .new_columns h4 {
 	font-size: 33px;
@@ -685,6 +685,7 @@ ul li {
 	font-size: 13px;
 	font-weight: 400;
 	 /* margin-top: 7%; */
+	margin-top: 12%;
 }
 .new_columns-content {
 	margin: 50px;
