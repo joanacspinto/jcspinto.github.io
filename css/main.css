@@ -656,6 +656,46 @@ ul li {
 	margin-top: 7%;
 }
 
+/* ------------------------------------------------------------------------------
+	 new_columns
+-------------------------------------------------------------------------------*/
+.new_columns {
+	width: 94%;
+	margin: auto;
+	position: relative;
+	 /* background-color: #f2f2f2; */
+	 background-color: #fff; 
+	msrgin-top: 8%;
+}
+.new_columns h4 {
+	font-size: 33px;
+	line-height: 33px;
+	letter-spacing: 2px;
+	font-weight: 300;
+}
+.new_columns h5 {
+	font-size: 21px;
+	font-weight: 300;
+	margin-top: 0%;
+	margin-bottom: 4%;
+	text-transform: none;
+}
+.new_columns p {
+	color: #6c7279;
+	font-size: 13px;
+	font-weight: 400;
+	 /* margin-top: 7%; */
+}
+.new_columns-content {
+	margin: 50px;
+}
+.new_columns-content li a {
+	color: #6c7279;
+	line-height: 30px;
+}
+.new_columns-content li a:hover {
+	 color: #000; 
+}
 
 /* ------------------------------------------------------------------------------
 	 Photo
