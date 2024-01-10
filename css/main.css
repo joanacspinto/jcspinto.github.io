@@ -669,7 +669,7 @@ ul li {
 .new_columns {
 	width: 92%;
 	margin: auto; 
-	 position: relative; 
+	position: relative; 
 	background-color: #fff; 
 	padding-top: 6%;
 }
@@ -678,7 +678,7 @@ ul li {
 }
 .new_columns-contentbox {
 	background-color: #f2f2f2;
-	padding: 3%;
+	padding: 2%;
 }
 .new_columns h3 {
 	font-size: 30px;
