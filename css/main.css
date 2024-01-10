@@ -667,11 +667,11 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .new_columns {
-	width: 92%;
+	width: 94%;
 	margin: auto; 
 	position: relative; 
 	background-color: #fff; 
-	padding-top: 6%;
+	padding-top: 4%;
 }
 .new_columns-margin {
 	margin-top: 6%;
